@@ -1,0 +1,42 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #263326;
+  background: #fff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --serif: 'Iowan Old Style', 'Baskerville Old Face', Baskerville, Georgia, serif;
+  --display: 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+
+body,
+button,
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  overflow: clip;
+}
+
+::selection {
+  color: #263326;
+  background: #d7e2c6;
+}

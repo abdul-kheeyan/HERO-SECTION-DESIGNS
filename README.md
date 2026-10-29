@@ -8,7 +8,7 @@ A collection of modern, immersive hero-section experiments built to explore visu
 | --- | --- |
 | [01 — Into the Wild](./1/) | An interactive nature-photo gallery with a rotating works wheel, keyboard-accessible controls, and a responsive layout. |
 | [02 — Nature Journey](./2/) | A scroll-driven hero experience featuring a layered 3D photo tunnel, elegant typography, and a calm editorial look. |
-| [03 — Clothing rail](./3 clothing rail/) | An interactive clothing website featuring smooth animations, draggable clothing items, and a premium shopping experience. Designed to make online fashion shopping more engaging with a clean, modern UI. |
+| [03 — Clothing rail](./3clothingrail/) | An interactive clothing website featuring smooth animations, draggable clothing items, and a premium shopping experience. Designed to make online fashion shopping more engaging with a clean, modern UI. |
 
 ## Built With
 
